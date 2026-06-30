@@ -1,3 +1,5 @@
+""" Generate a synthetic FASTQ file for parsing and sequence analysis """
+
 import random
 
 def main(n_reads=10000, min_len=100, max_len=150, out="sample.fastq"):
