@@ -1,1 +1,1 @@
-# fastq-qc# fastq-qc
+# fastq-qc
